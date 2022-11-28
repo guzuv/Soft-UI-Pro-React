@@ -1,0 +1,17 @@
+.job-mod-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+  background-image: linear-gradient(#feac5e 0%, #c779d0 50%, #4bc0c8 100%);
+}
+.job-mod-text {
+  top: 326px;
+  right: -160px;
+  width: 944px;
+  height: 187px;
+  position: absolute;
+}
