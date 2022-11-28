@@ -15,7 +15,7 @@ const OutlineBlackButton = (props) => {
 }
 
 OutlineBlackButton.defaultProps = {
-  GetGaming: 'Get Gaming',
+  GetGaming: 'emankey',
 }
 
 OutlineBlackButton.propTypes = {
