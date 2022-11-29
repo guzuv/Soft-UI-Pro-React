@@ -13,8 +13,8 @@ const Home = (props) => {
   return (
     <div className="home-container">
       <Helmet>
-        <title>Soft UI Pro</title>
-        <meta property="og:title" content="Soft UI Pro" />
+        <title>GAMES!!!!!!!!!!!!!!!</title>
+        <meta property="og:title" content="GAMES!!!!!!!!!!!!!!!" />
       </Helmet>
       <div data-role="Header" className="home-header">
         <div data-role="MobileMenu" className="home-mobile-menu">

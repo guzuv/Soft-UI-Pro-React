@@ -8,8 +8,8 @@ const EMAIL = (props) => {
   return (
     <div className="e-m-a-i-l-container">
       <Helmet>
-        <title>EMAIL - Soft UI Pro</title>
-        <meta property="og:title" content="EMAIL - Soft UI Pro" />
+        <title>EMAIL - GAMES!!!!!!!!!!!!!!!</title>
+        <meta property="og:title" content="EMAIL - GAMES!!!!!!!!!!!!!!!" />
       </Helmet>
     </div>
   )

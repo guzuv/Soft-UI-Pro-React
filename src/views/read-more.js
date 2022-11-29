@@ -9,8 +9,8 @@ const ReadMore = (props) => {
   return (
     <div className="read-more-container">
       <Helmet>
-        <title>Read-more - Soft UI Pro</title>
-        <meta property="og:title" content="Read-more - Soft UI Pro" />
+        <title>Read-more - GAMES!!!!!!!!!!!!!!!</title>
+        <meta property="og:title" content="Read-more - GAMES!!!!!!!!!!!!!!!" />
       </Helmet>
       <a
         href="https://www.youtube.com/watch?v=yJ7BHvOV1F4"

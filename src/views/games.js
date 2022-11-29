@@ -9,8 +9,8 @@ const Games = (props) => {
   return (
     <div className="games-container">
       <Helmet>
-        <title>Games - Soft UI Pro</title>
-        <meta property="og:title" content="Games - Soft UI Pro" />
+        <title>Games - GAMES!!!!!!!!!!!!!!!</title>
+        <meta property="og:title" content="Games - GAMES!!!!!!!!!!!!!!!" />
       </Helmet>
       <a
         href="https://pac-man-js.mallaja.repl.co/"

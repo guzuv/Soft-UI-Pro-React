@@ -8,8 +8,8 @@ const JobMod = (props) => {
   return (
     <div className="job-mod-container">
       <Helmet>
-        <title>JobMod - Soft UI Pro</title>
-        <meta property="og:title" content="JobMod - Soft UI Pro" />
+        <title>JobMod - GAMES!!!!!!!!!!!!!!!</title>
+        <meta property="og:title" content="JobMod - GAMES!!!!!!!!!!!!!!!" />
       </Helmet>
       <h1 className="job-mod-text">COMING SOON</h1>
     </div>

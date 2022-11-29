@@ -11,8 +11,8 @@ const ComingSoon = (props) => {
   return (
     <div className="coming-soon-container">
       <Helmet>
-        <title>ComingSoon - Soft UI Pro</title>
-        <meta property="og:title" content="ComingSoon - Soft UI Pro" />
+        <title>ComingSoon - GAMES!!!!!!!!!!!!!!!</title>
+        <meta property="og:title" content="ComingSoon - GAMES!!!!!!!!!!!!!!!" />
       </Helmet>
       <Header></Header>
       <div className="coming-soon-container1">
