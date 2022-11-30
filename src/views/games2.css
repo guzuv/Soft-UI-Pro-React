@@ -65,6 +65,9 @@
 .games2-text14 {
   color: #bd1919;
 }
+.games2-link3 {
+  display: contents;
+}
 .games2-image1 {
   top: 150px;
   left: 530px;
@@ -72,4 +75,7 @@
   height: 130px;
   position: absolute;
   object-fit: cover;
+  border-color: #000000;
+  border-width: 2px;
+  text-decoration: none;
 }
