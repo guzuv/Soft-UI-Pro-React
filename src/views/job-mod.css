@@ -8,10 +8,14 @@
   justify-content: center;
   background-image: linear-gradient(#feac5e 0%, #c779d0 50%, #4bc0c8 100%);
 }
+.job-mod-navlink {
+  display: contents;
+}
 .job-mod-text {
   top: 326px;
   right: -160px;
   width: 944px;
   height: 187px;
   position: absolute;
+  text-decoration: none;
 }

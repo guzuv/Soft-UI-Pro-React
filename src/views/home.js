@@ -101,7 +101,7 @@ const Home = (props) => {
           <div className="home-container10">
             <img
               alt="image"
-              src="https://images.unsplash.com/photo-1661961112835-ca6f5811d2af?ixid=Mnw5MTMyMXwxfDF8YWxsfDF8fHx8fHwyfHwxNjY5NjY1OTgz&amp;ixlib=rb-4.0.3&amp;w=1100"
+              src="/playground_assets/fsbu6sphikv61-1100w.webp"
               className="home-image02"
             />
             <div className="home-container11"></div>

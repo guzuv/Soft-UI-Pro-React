@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom'
 import { BrowserRouter as Router, Route } from 'react-router-dom'
 
 import './style.css'
+import Games2 from './views/games2'
 import ReadMore from './views/read-more'
 import JobMod from './views/job-mod'
 import EMAIL from './views/e-m-a-i-l'
@@ -16,6 +17,7 @@ const App = () => {
   return (
     <Router>
       <div>
+        <Route component={Games2} exact path="/games2" />
         <Route component={ReadMore} exact path="/read-more" />
         <Route component={JobMod} exact path="/job-mod" />
         <Route component={EMAIL} exact path="/e-m-a-i-l" />

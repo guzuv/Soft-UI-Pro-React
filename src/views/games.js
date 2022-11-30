@@ -24,7 +24,7 @@ const Games = (props) => {
         href="https://pac-man-js.mallaja.repl.co/"
         target="_blank"
         rel="noreferrer noopener"
-        className="games-link1"
+        className="games-link01"
       >
         <h1 className="games-text01">Get eating</h1>
       </a>
@@ -32,7 +32,7 @@ const Games = (props) => {
         href="https://pac-man-js.mallaja.repl.co/"
         target="_blank"
         rel="noreferrer noopener"
-        className="games-link2"
+        className="games-link02"
       >
         <img
           alt="image"
@@ -57,7 +57,7 @@ const Games = (props) => {
         href="https://1v1lol.56306.repl.co/"
         target="_blank"
         rel="noreferrer noopener"
-        className="games-link3"
+        className="games-link03"
       >
         <h1 className="games-text11">
           <span>
@@ -78,7 +78,7 @@ const Games = (props) => {
         href="https://1v1lol.56306.repl.co/"
         target="_blank"
         rel="noreferrer noopener"
-        className="games-link4"
+        className="games-link04"
       >
         <img
           alt="image"
@@ -90,7 +90,7 @@ const Games = (props) => {
         href="https://spaceinvaders.calamari1.repl.co/"
         target="_blank"
         rel="noreferrer noopener"
-        className="games-link5"
+        className="games-link05"
       >
         <h1 className="games-text17">
           <span className="games-text18">Space invaders </span>
@@ -104,6 +104,75 @@ const Games = (props) => {
         src="https://upload.wikimedia.org/wikipedia/en/0/0f/Space_Invaders_flyer%2C_1978.jpg"
         className="games-image2"
       />
+      <a
+        href="https://spaceinvaders.calamari1.repl.co/"
+        target="_blank"
+        rel="noreferrer noopener"
+        className="games-link06"
+      >
+        <h1 className="games-text22">
+          <span className="games-text23">Space invaders </span>
+          <br className="games-text24"></br>
+          <span className="games-text25">      pew pew</span>
+          <br></br>
+        </h1>
+      </a>
+      <h1 className="games-text27">
+        <span>We have lots of</span>
+        <br></br>
+        <span>
+          Games here! (more coming soon) if there is a game you want to see and
+          play just Email me! If we can&apos;t get the game you want we will
+          notify you and give you a game close to the first.
+        </span>
+        <br></br>
+      </h1>
+      <a
+        href="https://mario.abnumality.repl.co/"
+        target="_blank"
+        rel="noreferrer noopener"
+        className="games-link07"
+      >
+        <img
+          alt="image"
+          src="https://assets.reedpopcdn.com/mario-movie-still.jpg/BROK/resize/1200x1200%3E/format/jpg/quality/70/mario-movie-still.jpg"
+          className="games-image3"
+        />
+      </a>
+      <a
+        href="https://mario.abnumality.repl.co/"
+        target="_blank"
+        rel="noreferrer noopener"
+        className="games-link08"
+      >
+        <h1 className="games-text32">
+          <span>    Mario</span>
+          <br></br>
+          <span>Chris pratt?</span>
+          <br></br>
+        </h1>
+      </a>
+      <a
+        href="https://www.lumpty.com/amusements/Games/Tetris/tetris.html"
+        target="_blank"
+        rel="noreferrer noopener"
+        className="games-link09"
+      >
+        <h1 className="games-text37">
+          <span>          Tetris</span>
+          <br></br>
+          <span>It hurts me brain</span>
+          <br></br>
+        </h1>
+      </a>
+      <Link to="/games2" className="games-navlink1">
+        <h1 className="games-text42">
+          <span className="games-text43">Next </span>
+          <br className="games-text44"></br>
+          <span className="games-text45">page</span>
+          <br></br>
+        </h1>
+      </Link>
     </div>
   )
 }
