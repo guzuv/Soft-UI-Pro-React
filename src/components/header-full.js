@@ -25,7 +25,7 @@ const HeaderFull = (props) => {
           </div>
           <div className="header-full-container1">
             <div className="header-full-container2">
-              <PrimaryPinkButton button="buy now"></PrimaryPinkButton>
+              <PrimaryPinkButton Review="buy now"></PrimaryPinkButton>
             </div>
             <svg viewBox="0 0 1024 1024" className="header-full-icon">
               <path d="M128 256h768v86h-768v-86zM128 554v-84h768v84h-768zM128 768v-86h768v86h-768z"></path>

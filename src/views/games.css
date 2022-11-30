@@ -4,7 +4,7 @@
   display: flex;
   overflow: auto;
   min-height: 100vh;
-  align-items: flex-start;
+  align-items: center;
   flex-direction: column;
   justify-content: flex-start;
   background-image: linear-gradient(to right, #fc00ff 0%, #00dbde 100%);
@@ -93,4 +93,33 @@
   border-color: #000000;
   border-width: 2px;
   text-decoration: none;
+}
+.games-link5 {
+  display: contents;
+}
+.games-text17 {
+  top: 219px;
+  color: rgb(103, 116, 142);
+  right: 135px;
+  position: absolute;
+  text-decoration: none;
+}
+.games-text18 {
+  color: #fbfbfb;
+}
+.games-text19 {
+  color: #fbfbfb;
+}
+.games-text20 {
+  color: #fbfbfb;
+}
+.games-image2 {
+  top: 4px;
+  left: 871px;
+  width: 134px;
+  height: 193px;
+  position: absolute;
+  object-fit: cover;
+  border-color: #000000;
+  border-width: 2px;
 }

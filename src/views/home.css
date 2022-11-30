@@ -178,6 +178,7 @@
   flex-direction: row;
 }
 .home-container04 {
+  border: 2px dashed rgba(120, 120, 120, 0.4);
   display: flex;
   align-items: flex-start;
   margin-right: var(--dl-space-space-unit);
@@ -186,7 +187,7 @@
 .home-navlink5 {
   display: contents;
 }
-.home-component02 {
+.home-component01 {
   text-decoration: none;
 }
 .home-image {
@@ -651,7 +652,7 @@
 .home-navlink6 {
   display: contents;
 }
-.home-component03 {
+.home-component02 {
   text-decoration: none;
 }
 .home-container33 {
@@ -745,7 +746,7 @@
 .home-navlink7 {
   display: contents;
 }
-.home-component10 {
+.home-component09 {
   text-decoration: none;
 }
 .home-footer {

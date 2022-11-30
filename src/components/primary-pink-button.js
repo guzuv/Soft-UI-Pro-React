@@ -8,18 +8,18 @@ const PrimaryPinkButton = (props) => {
   return (
     <div className="primary-pink-button-container">
       <button className="primary-pink-button-button button ButtonSmall">
-        {props.button}
+        {props.Review}
       </button>
     </div>
   )
 }
 
 PrimaryPinkButton.defaultProps = {
-  button: 'Button',
+  Review: 'Review',
 }
 
 PrimaryPinkButton.propTypes = {
-  button: PropTypes.string,
+  Review: PropTypes.string,
 }
 
 export default PrimaryPinkButton

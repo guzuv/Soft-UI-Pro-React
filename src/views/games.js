@@ -86,6 +86,24 @@ const Games = (props) => {
           className="games-image1"
         />
       </a>
+      <a
+        href="https://spaceinvaders.calamari1.repl.co/"
+        target="_blank"
+        rel="noreferrer noopener"
+        className="games-link5"
+      >
+        <h1 className="games-text17">
+          <span className="games-text18">Space invaders </span>
+          <br className="games-text19"></br>
+          <span className="games-text20">      pew pew</span>
+          <br></br>
+        </h1>
+      </a>
+      <img
+        alt="image"
+        src="https://upload.wikimedia.org/wikipedia/en/0/0f/Space_Invaders_flyer%2C_1978.jpg"
+        className="games-image2"
+      />
     </div>
   )
 }

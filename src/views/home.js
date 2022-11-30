@@ -42,7 +42,7 @@ const Home = (props) => {
             </div>
           </div>
           <div className="home-bot">
-            <PrimaryPinkButton button="buy now"></PrimaryPinkButton>
+            <PrimaryPinkButton Review="buy now"></PrimaryPinkButton>
           </div>
         </div>
       </div>
@@ -63,13 +63,11 @@ const Home = (props) => {
             </Link>
             <div className="home-container02">
               <div className="home-container03">
-                <div className="home-container04">
-                  <PrimaryPinkButton button="contact us"></PrimaryPinkButton>
-                </div>
+                <div className="home-container04"></div>
                 <Link to="/read-more" className="home-navlink5">
                   <OutlineGrayButton
                     button="read more"
-                    className="home-component02"
+                    className="home-component01"
                   ></OutlineGrayButton>
                 </Link>
               </div>
@@ -242,7 +240,7 @@ const Home = (props) => {
               <Link to="/job-mod" className="home-navlink6">
                 <OutlineBlackButton
                   GetGaming="get started"
-                  className="home-component03"
+                  className="home-component02"
                 ></OutlineBlackButton>
               </Link>
             </div>
@@ -289,7 +287,7 @@ const Home = (props) => {
               <Link to="/job-mod" className="home-navlink7">
                 <OutlineBlackButton
                   GetGaming="get started"
-                  className="home-component10"
+                  className="home-component09"
                 ></OutlineBlackButton>
               </Link>
             </div>
