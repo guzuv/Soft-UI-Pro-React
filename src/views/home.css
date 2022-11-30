@@ -739,10 +739,6 @@
   text-align: center;
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text24 {
-  color: var(--dl-color-gray-white);
-  margin-bottom: var(--dl-space-space-tripleunit);
-}
 .home-navlink7 {
   display: contents;
 }
@@ -772,7 +768,7 @@
   align-items: flex-start;
   flex-direction: column;
 }
-.home-text25 {
+.home-text24 {
   font-weight: 700;
   margin-bottom: var(--dl-space-space-halfunit);
 }
@@ -786,7 +782,7 @@
   align-items: flex-start;
   flex-direction: column;
 }
-.home-text27 {
+.home-text26 {
   font-weight: 700;
   margin-bottom: var(--dl-space-space-halfunit);
 }
@@ -808,13 +804,13 @@
 .home-navlink8:hover {
   color: var(--dl-color-gray-white);
 }
-.home-text28 {
+.home-text27 {
   color: var(--dl-color-gray-800);
   transition: 0.3s;
   margin-bottom: var(--dl-space-space-halfunit);
   text-decoration: none;
 }
-.home-text28:hover {
+.home-text27:hover {
   color: var(--dl-color-gray-white);
 }
 .home-container43 {
@@ -824,9 +820,17 @@
   margin-left: var(--dl-space-space-sixunits);
   flex-direction: column;
 }
-.home-text29 {
+.home-text28 {
   font-weight: 700;
   margin-bottom: var(--dl-space-space-halfunit);
+}
+.home-text29 {
+  color: var(--dl-color-gray-800);
+  transition: 0.3s;
+  margin-bottom: var(--dl-space-space-halfunit);
+}
+.home-text29:hover {
+  color: var(--dl-color-gray-white);
 }
 .home-text30 {
   color: var(--dl-color-gray-800);
@@ -844,14 +848,6 @@
 .home-text31:hover {
   color: var(--dl-color-gray-white);
 }
-.home-text32 {
-  color: var(--dl-color-gray-800);
-  transition: 0.3s;
-  margin-bottom: var(--dl-space-space-halfunit);
-}
-.home-text32:hover {
-  color: var(--dl-color-gray-white);
-}
 .home-container44 {
   flex: 0 0 auto;
   display: flex;
@@ -859,9 +855,17 @@
   margin-left: var(--dl-space-space-sixunits);
   flex-direction: column;
 }
-.home-text33 {
+.home-text32 {
   font-weight: 700;
   margin-bottom: var(--dl-space-space-halfunit);
+}
+.home-text33 {
+  color: var(--dl-color-gray-800);
+  transition: 0.3s;
+  margin-bottom: var(--dl-space-space-halfunit);
+}
+.home-text33:hover {
+  color: var(--dl-color-gray-white);
 }
 .home-text34 {
   color: var(--dl-color-gray-800);
@@ -877,14 +881,6 @@
   margin-bottom: var(--dl-space-space-halfunit);
 }
 .home-text35:hover {
-  color: var(--dl-color-gray-white);
-}
-.home-text36 {
-  color: var(--dl-color-gray-800);
-  transition: 0.3s;
-  margin-bottom: var(--dl-space-space-halfunit);
-}
-.home-text36:hover {
   color: var(--dl-color-gray-white);
 }
 .home-image12 {

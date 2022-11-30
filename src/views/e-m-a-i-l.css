@@ -5,4 +5,22 @@
   min-height: 100vh;
   align-items: center;
   flex-direction: column;
+  background-image: linear-gradient(to right, #c02425 0%, #f0cb35 100%);
+}
+.e-m-a-i-l-text {
+  top: 190px;
+  left: 396px;
+  width: 479px;
+  height: 200px;
+  position: absolute;
+  text-transform: lowercase;
+}
+.e-m-a-i-l-text2 {
+  color: #ffffff;
+}
+.e-m-a-i-l-text3 {
+  color: #ffffff;
+}
+.e-m-a-i-l-text4 {
+  color: #0051fb;
 }
