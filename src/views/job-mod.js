@@ -11,9 +11,14 @@ const JobMod = (props) => {
         <title>JobMod - GAMES!!!!!!!!!!!!!!!</title>
         <meta property="og:title" content="JobMod - GAMES!!!!!!!!!!!!!!!" />
       </Helmet>
-      <h1 className="job-mod-text">
-        If you want a job Email helpline@gamesplus.ml
-      </h1>
+      <a
+        href="mailto:helpline@gamesplus.ml?subject=Job"
+        className="job-mod-link"
+      >
+        <h1 className="job-mod-text">
+          If you want a job Email helpline@gamesplus.ml
+        </h1>
+      </a>
     </div>
   )
 }
