@@ -1,5 +1,4 @@
 import React from 'react'
-import { Link } from 'react-router-dom'
 
 import { Helmet } from 'react-helmet'
 
@@ -12,9 +11,9 @@ const JobMod = (props) => {
         <title>JobMod - GAMES!!!!!!!!!!!!!!!</title>
         <meta property="og:title" content="JobMod - GAMES!!!!!!!!!!!!!!!" />
       </Helmet>
-      <Link to="/" className="job-mod-navlink">
-        <h1 className="job-mod-text">COMING SOON</h1>
-      </Link>
+      <h1 className="job-mod-text">
+        If you want a job Email helpline@gamesplus.ml
+      </h1>
     </div>
   )
 }
