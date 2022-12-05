@@ -130,6 +130,9 @@
   position: absolute;
   text-decoration: none;
 }
+.games2-navlink3 {
+  display: contents;
+}
 .games2-text23 {
   top: 552px;
   left: 67px;
@@ -137,6 +140,7 @@
   width: 294px;
   height: 88px;
   position: absolute;
+  text-decoration: none;
 }
 .games2-image4 {
   top: 460px;

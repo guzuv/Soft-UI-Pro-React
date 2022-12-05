@@ -107,7 +107,9 @@ const Games2 = (props) => {
       <Link to="/more-games" className="games2-navlink2">
         <h1 className="games2-text22">MORE GAMES!!!</h1>
       </Link>
-      <h1 className="games2-text23">BANDED GAME</h1>
+      <Link to="/b-a-n" className="games2-navlink3">
+        <h1 className="games2-text23">BANDED GAME</h1>
+      </Link>
       <img
         src="/playground_assets/bottom.svg"
         alt="image"
