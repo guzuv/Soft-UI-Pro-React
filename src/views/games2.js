@@ -73,36 +73,22 @@ const Games2 = (props) => {
           className="games2-image1"
         />
       </a>
-      <a
-        href="https://debbiewatermanphd.com/uploads/5/5/6/7/5567194/custom_themes/790846461828095114/fall-boys.html"
-        target="_blank"
-        rel="noreferrer noopener"
-        className="games2-link4"
-      >
-        <h1 className="games2-text16">
-          <span className="games2-text17">Fall boys</span>
-          <br></br>
-          <span className="games2-text19">Fall guys?</span>
-          <br></br>
-        </h1>
-      </a>
-      <a
-        href="https://debbiewatermanphd.com/uploads/5/5/6/7/5567194/custom_themes/790846461828095114/fall-boys.html"
-        target="_blank"
-        rel="noreferrer noopener"
-        className="games2-link5"
-      >
-        <img
-          alt="image"
-          src="https://play-lh.googleusercontent.com/J-LAe5imxP7MT5U2sD9qGRdpvxq8IXW_-fpI92EiHYx1mLx9FEgrq4XwSLe486NaopZK"
-          className="games2-image2"
-        />
-      </a>
+      <h1 className="games2-text16">
+        <span className="games2-text17">Fall boys</span>
+        <br></br>
+        <span className="games2-text19">Fall guys?</span>
+        <br></br>
+      </h1>
+      <img
+        alt="image"
+        src="https://play-lh.googleusercontent.com/J-LAe5imxP7MT5U2sD9qGRdpvxq8IXW_-fpI92EiHYx1mLx9FEgrq4XwSLe486NaopZK"
+        className="games2-image2"
+      />
       <a
         href="https://guzuv.github.io/tunnelrushing/"
         target="_blank"
         rel="noreferrer noopener"
-        className="games2-link6"
+        className="games2-link4"
       >
         <h1 className="games2-text21">
           <span>   </span>
@@ -116,7 +102,7 @@ const Games2 = (props) => {
         href="https://guzuv.github.io/tunnelrushing/"
         target="_blank"
         rel="noreferrer noopener"
-        className="games2-link7"
+        className="games2-link5"
       >
         <img
           alt="image"
@@ -128,6 +114,12 @@ const Games2 = (props) => {
       <Link to="/more-games" className="games2-navlink2">
         <h1 className="games2-text28">MORE GAMES!!!</h1>
       </Link>
+      <h1 className="games2-text29">BANDED GAME</h1>
+      <img
+        src="/playground_assets/bottom.svg"
+        alt="image"
+        className="games2-image4"
+      />
     </div>
   )
 }

@@ -79,24 +79,17 @@
   border-width: 2px;
   text-decoration: none;
 }
-.games2-link4 {
-  display: contents;
-}
 .games2-text16 {
   top: 573px;
   left: 97px;
   color: rgb(103, 116, 142);
   position: absolute;
-  text-decoration: none;
 }
 .games2-text17 {
   color: #ffffff;
 }
 .games2-text19 {
   color: #ffffff;
-}
-.games2-link5 {
-  display: contents;
 }
 .games2-image2 {
   top: 437px;
@@ -107,9 +100,8 @@
   object-fit: cover;
   border-color: #000000;
   border-width: 1px;
-  text-decoration: none;
 }
-.games2-link6 {
+.games2-link4 {
   display: contents;
 }
 .games2-text21 {
@@ -127,7 +119,7 @@
 .games2-text25 {
   color: #ffffff;
 }
-.games2-link7 {
+.games2-link5 {
   display: contents;
 }
 .games2-image3 {
@@ -149,4 +141,20 @@
   right: 77px;
   position: absolute;
   text-decoration: none;
+}
+.games2-text29 {
+  top: 602px;
+  left: 76px;
+  color: rgb(255, 0, 0);
+  width: 294px;
+  height: 88px;
+  position: absolute;
+}
+.games2-image4 {
+  top: 460px;
+  left: -14px;
+  width: 488px;
+  height: 43px;
+  position: absolute;
+  object-fit: cover;
 }

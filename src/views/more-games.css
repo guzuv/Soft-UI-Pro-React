@@ -12,8 +12,8 @@
   display: contents;
 }
 .more-games-text {
-  top: 216px;
-  left: 147px;
+  top: 190px;
+  left: 160px;
   color: #11ff03;
   position: absolute;
   text-decoration: none;
@@ -22,12 +22,14 @@
   display: contents;
 }
 .more-games-image {
-  top: 91px;
-  left: 85px;
+  top: 56px;
+  left: 91px;
   width: 219px;
   height: 119px;
   position: absolute;
   object-fit: cover;
+  border-color: #000000;
+  border-width: 2px;
   text-decoration: none;
 }
 .more-games-link2 {
@@ -45,6 +47,8 @@
   width: 154px;
   position: absolute;
   object-fit: cover;
+  border-color: #000000;
+  border-width: 2px;
 }
 .more-games-link3 {
   display: contents;
@@ -66,6 +70,8 @@
   height: 136px;
   position: absolute;
   object-fit: cover;
+  border-color: #000000;
+  border-width: 2px;
   text-decoration: none;
 }
 .more-games-link5 {
