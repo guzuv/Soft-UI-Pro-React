@@ -125,7 +125,9 @@ const Games2 = (props) => {
         />
       </a>
       <h1>Heading</h1>
-      <h1 className="games2-text28">MORE GAMES!!!</h1>
+      <Link to="/more-games" className="games2-navlink2">
+        <h1 className="games2-text28">MORE GAMES!!!</h1>
+      </Link>
     </div>
   )
 }
