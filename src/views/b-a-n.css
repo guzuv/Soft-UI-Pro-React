@@ -1,0 +1,25 @@
+.b-a-n-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  background-color: #f50000;
+}
+.b-a-n-text {
+  top: 103px;
+  right: 20px;
+  width: 930px;
+  height: 75px;
+  position: absolute;
+}
+.b-a-n-text1 {
+  color: #ffffff;
+}
+.b-a-n-text2 {
+  color: #ffffff;
+}
+.b-a-n-text3 {
+  color: #ffffff;
+}

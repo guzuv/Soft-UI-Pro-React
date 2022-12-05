@@ -13,6 +13,7 @@ import Profile from './views/profile'
 import Games from './views/games'
 import Page from './views/page'
 import Home from './views/home'
+import BAN from './views/b-a-n'
 
 const App = () => {
   return (
@@ -28,6 +29,7 @@ const App = () => {
         <Route component={Games} exact path="/games" />
         <Route component={Page} exact path="/page" />
         <Route component={Home} exact path="/" />
+        <Route component={BAN} exact path="/b-a-n" />
       </div>
     </Router>
   )
