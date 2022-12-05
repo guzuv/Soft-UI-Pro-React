@@ -73,12 +73,6 @@ const Games2 = (props) => {
           className="games2-image1"
         />
       </a>
-      <h1 className="games2-text16">
-        <span className="games2-text17">Fall boys</span>
-        <br></br>
-        <span className="games2-text19">Fall guys?</span>
-        <br></br>
-      </h1>
       <img
         alt="image"
         src="https://play-lh.googleusercontent.com/J-LAe5imxP7MT5U2sD9qGRdpvxq8IXW_-fpI92EiHYx1mLx9FEgrq4XwSLe486NaopZK"
@@ -90,11 +84,11 @@ const Games2 = (props) => {
         rel="noreferrer noopener"
         className="games2-link4"
       >
-        <h1 className="games2-text21">
+        <h1 className="games2-text16">
           <span>   </span>
-          <span className="games2-text23">Tunnel Rush</span>
-          <br className="games2-text24"></br>
-          <span className="games2-text25">AHHHHHHHHH</span>
+          <span className="games2-text18">Tunnel Rush</span>
+          <br className="games2-text19"></br>
+          <span className="games2-text20">AHHHHHHHHH</span>
           <br></br>
         </h1>
       </a>
@@ -112,9 +106,9 @@ const Games2 = (props) => {
       </a>
       <h1>Heading</h1>
       <Link to="/more-games" className="games2-navlink2">
-        <h1 className="games2-text28">MORE GAMES!!!</h1>
+        <h1 className="games2-text23">MORE GAMES!!!</h1>
       </Link>
-      <h1 className="games2-text29">BANDED GAME</h1>
+      <h1 className="games2-text24">BANDED GAME</h1>
       <img
         src="/playground_assets/bottom.svg"
         alt="image"
