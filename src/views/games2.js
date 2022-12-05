@@ -124,6 +124,8 @@ const Games2 = (props) => {
           className="games2-image3"
         />
       </a>
+      <h1>Heading</h1>
+      <h1 className="games2-text28">MORE GAMES!!!</h1>
     </div>
   )
 }

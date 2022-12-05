@@ -1,0 +1,47 @@
+.more-games-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  background-image: linear-gradient(#feac5e 0%, #c779d0 50%, #4bc0c8 100%);
+}
+.more-games-link {
+  display: contents;
+}
+.more-games-text {
+  top: 216px;
+  left: 147px;
+  color: #11ff03;
+  position: absolute;
+  text-decoration: none;
+}
+.more-games-link1 {
+  display: contents;
+}
+.more-games-image {
+  top: 91px;
+  left: 85px;
+  width: 219px;
+  height: 119px;
+  position: absolute;
+  object-fit: cover;
+  text-decoration: none;
+}
+.more-games-link2 {
+  display: contents;
+}
+.more-games-text1 {
+  top: 209px;
+  left: 449px;
+  position: absolute;
+  text-decoration: none;
+}
+.more-games-image1 {
+  top: 48px;
+  left: 440px;
+  width: 154px;
+  position: absolute;
+  object-fit: cover;
+}
