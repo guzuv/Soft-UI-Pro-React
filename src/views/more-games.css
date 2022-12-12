@@ -35,7 +35,7 @@
 .more-games-link2 {
   display: contents;
 }
-.more-games-text1 {
+.more-games-text01 {
   top: 209px;
   left: 449px;
   position: absolute;
@@ -53,7 +53,7 @@
 .more-games-link3 {
   display: contents;
 }
-.more-games-text2 {
+.more-games-text02 {
   top: 403px;
   left: 101px;
   color: rgb(255, 255, 255);
@@ -77,9 +77,27 @@
 .more-games-link5 {
   display: contents;
 }
-.more-games-text6 {
+.more-games-text06 {
   top: 500px;
   left: 132px;
+  position: absolute;
+  text-decoration: none;
+}
+.more-games-navlink {
+  display: contents;
+}
+.more-games-text07 {
+  top: 38px;
+  left: 665px;
+  position: absolute;
+  text-decoration: none;
+}
+.more-games-navlink1 {
+  display: contents;
+}
+.more-games-text08 {
+  top: 152px;
+  right: 122px;
   position: absolute;
   text-decoration: none;
 }

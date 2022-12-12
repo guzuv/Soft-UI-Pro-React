@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom'
 import { BrowserRouter as Router, Route } from 'react-router-dom'
 
 import './style.css'
+import BAN from './views/b-a-n'
 import Games2 from './views/games2'
 import ReadMore from './views/read-more'
 import MoreGames from './views/more-games'
@@ -13,12 +14,12 @@ import Profile from './views/profile'
 import Games from './views/games'
 import Page from './views/page'
 import Home from './views/home'
-import BAN from './views/b-a-n'
 
 const App = () => {
   return (
     <Router>
       <div>
+        <Route component={BAN} exact path="/b-a-n" />
         <Route component={Games2} exact path="/games2" />
         <Route component={ReadMore} exact path="/read-more" />
         <Route component={MoreGames} exact path="/more-games" />
@@ -29,7 +30,6 @@ const App = () => {
         <Route component={Games} exact path="/games" />
         <Route component={Page} exact path="/page" />
         <Route component={Home} exact path="/" />
-        <Route component={BAN} exact path="/b-a-n" />
       </div>
     </Router>
   )
