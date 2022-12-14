@@ -938,6 +938,28 @@
   position: absolute;
   object-fit: cover;
 }
+.home-text37 {
+  top: 701px;
+  left: 463px;
+  position: absolute;
+}
+.home-text38 {
+  color: #ffffff;
+}
+.home-text39 {
+  color: #ffffff;
+}
+.home-text40 {
+  color: #ffffff;
+}
+.home-image13 {
+  top: 813px;
+  left: 492px;
+  width: 159px;
+  height: 121px;
+  position: absolute;
+  object-fit: cover;
+}
 @media(max-width: 991px) {
   .home-hero {
     padding-left: var(--dl-space-space-tripleunit);
