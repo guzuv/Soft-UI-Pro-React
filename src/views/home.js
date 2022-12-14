@@ -327,17 +327,6 @@ const Home = (props) => {
           className="home-image12"
         />
       </footer>
-      <h1 className="home-text37">
-        <span className="home-text38">Game under </span>
-        <br className="home-text39"></br>
-        <span className="home-text40">   research</span>
-        <br></br>
-      </h1>
-      <img
-        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSClW1lWErwusA3g-gC9ZjM3VH1z2CiahEEyw&amp;usqp=CAU"
-        alt="image"
-        className="home-image13"
-      />
     </div>
   )
 }
