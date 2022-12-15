@@ -90,6 +90,8 @@ const Games2 = (props) => {
           <br className="games2-text19"></br>
           <span className="games2-text20">AHHHHHHHHH</span>
           <br></br>
+          <span>thanks guzuv</span>
+          <br></br>
         </h1>
       </a>
       <a
@@ -105,16 +107,17 @@ const Games2 = (props) => {
         />
       </a>
       <Link to="/more-games" className="games2-navlink2">
-        <h1 className="games2-text22">MORE GAMES!!!</h1>
+        <h1 className="games2-text24">MORE GAMES!!!</h1>
       </Link>
       <Link to="/b-a-n" className="games2-navlink3">
-        <h1 className="games2-text23">BANDED GAME</h1>
+        <h1 className="games2-text25">BANDED GAME</h1>
       </Link>
       <img
         alt="image"
         src="/playground_assets/bottom.svg"
         className="games2-image4"
       />
+      <div className="games2-container1"></div>
     </div>
   )
 }

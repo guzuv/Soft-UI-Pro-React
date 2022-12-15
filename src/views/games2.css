@@ -124,7 +124,7 @@
 .games2-navlink2 {
   display: contents;
 }
-.games2-text22 {
+.games2-text24 {
   top: 58px;
   right: 77px;
   position: absolute;
@@ -133,7 +133,7 @@
 .games2-navlink3 {
   display: contents;
 }
-.games2-text23 {
+.games2-text25 {
   top: 552px;
   left: 67px;
   color: rgb(255, 0, 0);
@@ -149,4 +149,13 @@
   height: 43px;
   position: absolute;
   object-fit: cover;
+}
+.games2-container1 {
+  flex: 0 0 auto;
+  width: 200px;
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  height: 100px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
 }
